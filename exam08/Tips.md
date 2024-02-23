@@ -6,6 +6,8 @@
 
 ![icp](../img/icp.gif)
 
+<br>
+
 ## 教程推荐
 
 [CSDN](https://blog.csdn.net/qq_42994487/article/details/130628125)
@@ -15,3 +17,15 @@
 [博客园](https://www.cnblogs.com/li-yao7758258/category/954066.html)
 
 [PCL 官网](https://pointclouds.org/)
+
+<br>
+
+## 关于本题
+
+**Example:**
+
+(示例图片为对 kitchen 进行平面可视化的两种方式)
+
+|  |  |
+|--|--|
+|![see_plane1](../img/pcl1.png)|![see_plane2](../img/pcl2.png)|

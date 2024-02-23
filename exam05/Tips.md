@@ -19,7 +19,13 @@
 
 ![astar](../img/astar.gif)
 
+<br>
+
 ## 教程推荐
+
+[2D导航原理系列教程合集](https://www.bilibili.com/video/BV19b4y1d7Hz/)
+
+> B站 轮趣科技的2D导航教程
 
 [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning)
 
@@ -29,9 +35,21 @@
 
 > 一些十分有助于理解算法的带有可互动动画的教程。
 
-[2D导航原理系列教程合集](https://www.bilibili.com/video/BV19b4y1d7Hz/)
+关于 A* 算法，网上有许多教程，大家自行查阅。
 
-> B站 轮趣科技的2D导航教程
+<br>
 
 ## 关于本题
 
+基本实现 A* 算法，地图自行设计。
+
+> 要求:    
+> 1.封装成类    
+> 2.分成 .h 和 .cpp    
+> 3.代码适当注释
+
+**Example:**
+
+(1表示障碍物，0表示可通过区域, *表示路径)
+
+![astar](../img/astar.png)

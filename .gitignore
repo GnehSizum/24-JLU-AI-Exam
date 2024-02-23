@@ -1,1 +1,5 @@
-temp/
+.vscode/
+_astar/
+_bt/
+_pcl/
+_tmp/
